@@ -1,0 +1,115 @@
+
+@media only screen and (min-width: 767px){
+    .work-heading{
+       font-size: 6rem;
+        top: 10%;
+        line-height: 1;
+        position: absolute;
+        padding: 0 8%;
+    }
+    .client-testimonals{
+        padding: 4% 7% 0%;
+    }
+    .WorkPageHai{
+          background-image: url("Work – 2 (3).png");
+      background-repeat: no-repeat, repeat;
+     background-size: cover; 
+    }
+    
+    .WORK-section1 {
+        width: 100vw;
+        height: 85.6vh;
+        background-color: #FABE00;
+    }
+    
+    
+    }
+        .work-yo-div{
+            padding: 8%;
+        }
+    
+        .home-yo-div{
+            padding: 15% 8% 8%;
+        }
+    
+        .projects-thumb{
+            padding-bottom: 2%;
+        }
+    
+      
+    
+        .my-projects{
+            padding: 5% 0;
+        }
+      .associate-brand{
+        padding: 2% 0 0% 0;
+            margin: 0 0% 0 5%;
+      }
+    
+      .connect-page{
+        padding:4% 7% 0%;
+      }
+    .logofil{
+            width: 145px;
+        height: 145px;
+    }
+      
+    
+    /*  @media only screen   
+    and (min-device-width : 800px) and (max-device-width : 1280px) {
+     
+        .work-sub-headiing-para {
+            position: absolute;
+            padding: 35.2% 0% 0 53%;
+        }
+    }
+    
+    
+    @media only screen   
+    and (min-device-width : 1289px) and (max-device-width : 1366px) {
+     
+        .work-sub-headiing-para {
+            position: absolute;
+            padding: 32.9% 0% 0 57%;
+        }
+    
+    }
+    
+    
+    
+    @media only screen   
+    and (min-device-width : 1388px) and (max-device-width : 1599px) {
+     
+        .work-sub-headiing-para {
+            position: absolute;
+            padding: 36.6% 0% 0 51%;
+        }
+    
+    }*/
+    
+    
+    .clienpad{
+      padding: 1% 0 0;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    @media only screen and (min-width: 1920px){
+    
+    .WorkPageHai{
+          background-image: url("Work – 2 (1).png");
+      background-repeat: no-repeat, repeat;
+     background-size: cover; 
+    }
+    
+        }
+    
+    
+    .img-card6 img{width:100%;height: 341px;object-fit:cover;}
+    .img-card6{margin-bottom:15px;margin-top:15px;}

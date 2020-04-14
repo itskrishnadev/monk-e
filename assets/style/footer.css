@@ -1,0 +1,212 @@
+
+@media only screen   
+and (min-device-width : 920px)   {
+
+    .Foot-logo {
+        margin: -7% 2.9%;
+        height: 4vmin;
+        pointer-events: none;
+    }
+
+
+    .myfooter-container {
+        padding: 13% 8% 0%;
+    }
+    .footerHeading {
+        color: rgb(250, 190, 0);
+        margin-left: 2.6%;
+        margin-top: -6%;
+    }
+.main-myfooter{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+.subscrbetite{
+    padding: 0% 8%;
+}
+}
+
+@media only screen and (min-device-width: 1920px){
+
+.myfooter-container {
+    padding: 7% 8% 3%;
+}
+}
+
+.myform-submite {
+    color: #fff;
+    background-color: #000;
+    margin-top: 4%;
+    width: 28%;
+    border-radius: 32px;
+    height: 48px;
+    border-color: #000;
+}
+
+.myform-submite:hover{ 
+    background: #FABE00 !important;
+}
+
+.my-input-formM{
+    width: 100%;
+    border-top: none;
+    border-right: none;
+    border-bottom: thin solid lightblue;
+    border-left: none;
+    border-image: initial;
+
+}
+
+.react-tabs {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  .react-tabs__tab-list {
+    margin: 0 0 10px;
+    padding: 0;
+  }
+  
+  
+  
+  .react-tabs__tab--selected {
+    color: white;
+    border-bottom: solid #FABE00;
+    border-bottom-width: thin;
+  }
+  
+  .footertab
+    {  
+      padding: 10px 0px;
+      display: inline-block;
+      cursor: pointer;
+      background-color: black;
+      width: 33.3%;
+      color: rgba(255, 255, 255, 0.7);
+      text-align: center;
+     }
+  /*    
+  @media only screen   
+  and (max-device-width : 762px)   {
+  .footertab {
+    display: inline-block;
+    bottom: -1px;
+    position: relative;
+    list-style: none;
+    padding: 6px 12px;
+    cursor: pointer;
+  }
+  
+  }
+  
+  @media only screen   
+  and (min-device-width : 1920px)  {
+    .footertab {
+      display: inline-block;
+      bottom: -1px;
+      position: relative;
+      list-style: none;
+      padding: 3% 10.7%;
+      cursor: pointer;
+  }
+  }
+  
+  
+  
+  @media only screen   
+  and (min-device-width : 800px) and (max-device-width : 1280px) {
+   
+    .footertab {
+      display: inline-block;
+      bottom: -1px;
+      position: relative;
+      list-style: none;
+      padding: 3% 8%;
+      cursor: pointer;
+  }
+  }
+  
+  
+  @media only screen   
+  and (min-device-width : 1300px) and (max-device-width : 1366px) {
+   
+  
+    .footertab {
+      display: inline-block;
+      bottom: -1px;
+      position: relative;
+      list-style: none;
+      padding: 3% 9.8%;
+      cursor: pointer;
+  }
+      
+  
+  }
+  
+  
+  
+  @media only screen   
+  and (min-device-width : 1388px) and (max-device-width : 1599px) {
+   
+    .footertab {
+      display: inline-block;
+      bottom: -1px;
+      position: relative;
+      list-style: none;
+      padding: 3% 10.2%;
+      cursor: pointer;
+  }
+  
+  } */ 
+
+  
+  /* Style the tab */
+  .tab {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab button {
+    padding: 10px 0px;
+    border:none;
+    display: inline-block;
+    cursor: pointer;
+    background-color: black;
+    width: 32%;
+    color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+  }
+  
+  /* Change background color of buttons on hover */
+  /* .tab button:hover {
+    background-color: #ddd;
+  }
+   */
+  /* Create an active/current tablink class */
+  .tab button.active {
+    color: white;
+    border-bottom: solid #FABE00;
+    border-bottom-width: thin;
+  }
+  
+  /* Style the tab content */
+  .tabcontent {
+ 
+  }
+
+  .footerinput{
+    width: 100%; background: black; color: white; border-top: none; border-right: none; border-bottom: thin solid white; border-left: none; border-image: initial;
+  }
+.form-control2ds{
+      display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #fff;
+    background-color: #000;
+    background-clip: padding-box;
+    /* border: 1px solid #ced4da; */
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}

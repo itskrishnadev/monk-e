@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .App-logo{
+    height: 4vmin;
+    pointer-events: none;
+  }
+  
+  body {
+    overflow-x: hidden;
+  }
+  
+  @media only screen and (max-width: 762px){
+  .desktop-only {
+      display: none;
+  }}
+  
+  @media only screen and (min-width: 767px){
+    .mobile-only {
+        display: none;
+    }}
+  
+  /* span {
+    color: #fff;
+    font-size: 30px;
+  } */
+  
+  .my-input-padding{
+  padding: 3.5%;
+  height: 1%;
+  }
+  
+  
+    .modal-header {
+      padding: 8% 4% 8% 8%;
+  }
+  
+  @media only screen   
+  and (min-device-width : 920px)   {
+  .mypad8{
+    padding: 8%;
+  }
+  .myform{
+    padding: 0 64% 0 0%;
+    }
+  }
+  
+  a:hover {
+    color: #0056b3;
+    text-decoration: none !important;
+  }
+  
+  .jk{
+    color: black;
+  }
+  
+  .h1old {  margin: .67em 0; }
+  
+  
+  @media only screen   
+  and (max-device-width : 1900px)   {
+  .only1080{
+    display: none;
+  }
+  }
+  
+  .yelow-brand{
+    background: rgb(250, 190, 0);
+  }
+  
+  
+  input:focus, textarea:focus, select:focus{
+    outline: none;
+  }
+  
+  h1,h2{
+    text-transform: uppercase;
+  }
+  
+  .imgoverl { opacity: 0.85;}
+  
+  
+  p{
+    font-family: 'IBM Plex Sans', sans-serif;;
+  }
+  
+  .myblu{
+    color: #0022FA;
+    /* color: #FF4500; */
+  }
+  
+  
+  .Collapsible {
+    cursor: default;
+  }
+  
+  /* .form-para{
+    padding: 3% 1%;
+    margin-left: -1%;
+  } */
+  
+  
+  .team-modal-para{
+    font-size: 11.7px
+  }
+  
+  .myhrlinehai{
+     width:100%;
+     color: black;
+     background: black;
+  }
+  
+  .eapps-remove-link{
+    display: none !important;
+  }
+  
+  .footer-walaInput{width:"100%"; 
+   background:"black";
+   color:"white"; 
+   border:"none"; 
+   border-bottom: "solid white";
+   border-bottom-width: "thin";}
+  
+   .myform-submite2{
+   color: #fff;
+      background-color: #000;
+  
+      width: 28%;
+      border-radius: 32px;
+      height: 48px;
+      border-color: #000;}
+  
+      .myform-submite2:hover{
+        background: #FABE00 !important;
+      }
+  
+      .myform-submite3{
+        color: #fff;
+        background-color:  #FABE00 !important;
+    
+        width: 28%;
+        border-radius: 32px;
+        height: 48px;
+        border-color: #000;
+      }

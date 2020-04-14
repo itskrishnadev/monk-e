@@ -1,0 +1,136 @@
+@media only screen and (min-width: 1024px) and (max-height: 1366px)
+    and (-webkit-min-device-pixel-ratio: 1.5) and (hover: none) {
+
+        .main-myfooter {
+            width: 100vw;
+            height: 50vh;
+            background-color: black;
+        }
+    /* ... */
+}
+
+
+@media only screen and (min-width: 768px) and (max-height: 1024px)
+    and (-webkit-min-device-pixel-ratio: 1.5) and (hover: none) {
+
+     .row {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+			}
+
+	.main-myfooter {
+    background-color: black;
+    padding: 5% 5%;
+            }
+
+    .Foot-logo {
+    margin: 8% 4.2%;
+    height: 4.4vmin;
+    pointer-events: none;
+}
+  .react-tabs__tab {
+    display: inline-block;
+    bottom: -1px;
+    position: relative;
+    list-style: none;
+    padding: 3% 5%;
+    cursor: pointer;
+}
+     .not-on-ipad{
+     	display: none;
+     }
+     .show-on-ipad {
+      display: block !important;
+      }
+      .landing-para{
+      	    padding: 19% 11% 5%;
+    font-size: 1.176rem;
+      }
+      .hoem-nav{
+      	background: #FABE00;
+      }
+
+
+   .my-main-Navbar {
+     padding: 3% 10%;
+    z-index: 1;
+    width: 100%;
+    position: relative;
+}
+        .mobile-landing-section1 {
+    background-color: #FABE00;
+}
+
+.home-yo-div {
+    padding: 8% 8% 8%;
+}
+.ipad8{
+	padding: 8%;
+}
+.jc{
+	font-size: 1.6em;
+}
+.about-us-last{
+	    padding: 4% 0;
+}
+.paraSection {
+    padding: 29% 9%;
+    font-size: 11.5px;
+    position: relative;
+}
+.work-heading {
+    font-size: 4rem;
+    top: 6%;
+    line-height: 1;
+    position: absolute;
+    padding: 0 10%;
+}
+.connect-heading{
+	 font-size: 4rem;
+    top: 6%;
+    line-height: 1;
+    position: absolute;
+    padding: 0 10%;
+}
+.WORK-section1 {
+    width: 100vw;
+    height: 42.6vh;
+    background-color: #FABE00;
+}
+.about-heading{
+	 font-size: 4rem;
+    top: 6%;
+    line-height: 1;
+    position: absolute;
+    padding: 0 10%;
+}
+.img-card img {
+    width: 100%;
+    height: 184px;
+    object-fit: cover;
+}
+.img-card2 img {
+    width: 100%;
+    height: 238px;
+    object-fit: cover;
+}
+.Tean-section-padding{
+	padding: 8%;
+}
+.mypad8{
+	padding: 8%;
+}
+.connect-page {
+    padding: 4% 7% 8%;
+}
+.hamraButton {
+    color: #fff;
+    width: 40%;
+    border-radius: 32px;
+    height: 33px;
+    background: #FABE00;
+    border-color: #FABE00;
+}
+
+    /* ... */
+}

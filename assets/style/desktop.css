@@ -1,0 +1,207 @@
+
+@media only screen and (min-width: 1920px){
+    .myMediaHr {
+        margin-left: -1.9%;
+    }
+
+
+    .Foot-logo{ 
+
+        margin: -7% 2.2%;
+        height: 4vmin;
+        pointer-events: none;
+        
+        }
+.client-testimonals{
+    padding:0 16%;
+}
+
+
+    .yuph2 {
+        margin-top: -26%;
+        text-transform: capitalize;
+        font-size: 3rem;
+        padding: 0 30px;
+    }
+
+    .strip{
+        padding: 0 30px;
+    }
+
+    .home-yo-div {
+        padding: 12% 16% 8%;
+    }
+
+    .container12 .cardyo .contentBx a {
+        display: inline-block;
+     
+        border-radius: 4px;
+     
+        padding: 0 30px;
+        background: border-box;
+        color: #FABE00;
+        text-decoration: none;
+        font-weight: 600;
+      
+        opacity: 0;
+        transform: translateY(50px);
+        transition: .5s;
+    }
+
+
+    .Home-section1 {
+        width: 100vw;
+        height: 88.48vh;
+        background-color: #FABE00;
+      }
+  
+
+    .yo-div-ser {
+        padding: 8% 0% 6% !important;
+    }
+    .vertical-stip1{
+        padding: 1% 16%;
+    }
+
+    .connect-map-wala {
+        padding: 7% 16% 5%;
+        margin-left: 0%;
+    }
+
+    .Description {
+        position: absolute;
+        bottom: 0px;
+        margin: 2% 0% 4% 10.2%;
+        font-size: 2rem;
+    }
+
+
+    .container12 .cardyo .contentBx .size,
+    .container12 .cardyo .contentBx .color {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 8px 30px;
+    transition: .5s;
+    opacity: 0;
+    visibility: hidden;
+}
+
+
+
+.my-main-Navbar {
+    padding: 1% 16%;
+}
+
+.connect-page {
+    padding: 4% 16% 0%;
+}
+.connect-page1 {
+    padding: 1% 16% 0%;
+}
+
+.mypad8 {
+    padding: 8% 16% !important;
+}
+.myfooter-container {
+    padding: 12% 16% 3%;
+}
+
+/* /////////////////about page/////////////////////// */
+
+.Tean-section-padding {
+    padding: 8% 17% ;
+}
+.about-sub-headiing-para {
+    position: absolute;
+  
+}
+.paraSection{
+ padding: 29% 16.7% 29% 17%;
+}
+.about-heading {
+       font-size: 8rem;
+    top: 7%;
+    line-height: 1;
+
+    position: absolute;
+    padding: 0 16.2%;
+}
+
+
+/* ///////////////////////work page////////////////////// */
+
+.work-heading {
+    font-size: 8rem;
+    top: 7%;
+    line-height: 1;
+
+    position: absolute;
+    padding: 0 16.2%;
+}
+
+.work-yo-div{
+    padding: 8% 16%;
+}
+.work-yo-div1{
+    padding: 8% 16%;
+}
+
+.work-sub-headiing-para {
+    position: absolute;
+    
+}
+
+/* ///////////////////connect page///////////////////////// */
+
+.connect-heading {
+    font-size: 8rem;
+    top: 7%;
+    line-height: 1;
+    padding: 0 16.2%;
+}
+
+
+.connect-sub-headiing-para {
+    position: absolute;
+
+}
+.footerHeading {
+    color: rgb(250, 190, 0);
+    margin-left: 2.19%;
+    margin-top: -6%;
+}
+
+}
+
+@media only screen   
+and (min-device-width : 800px) and (max-device-width : 1280px) {
+ 
+  .paraSection{
+        padding: 34% 8%;
+  }
+}
+
+
+@media only screen   
+and (min-device-width : 1289px) and (max-device-width : 1366px) {
+    .paraSection{
+            padding: 32% 8%;
+    }
+ 
+ 
+
+}
+
+
+
+@media only screen   
+and (min-device-width : 1388px) and (max-device-width : 1599px) {
+ 
+   .paraSection{
+        padding: 34% 8%;
+  }
+
+}
+
+

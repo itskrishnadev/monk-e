@@ -1,0 +1,295 @@
+@media only screen   
+and (max-device-width : 562px) {
+    .myhrlinehai{
+   width:93%;
+   color: black;
+   background: black;
+}
+
+.hamraButton {
+    color: #fff;
+    width: 40%;
+    border-radius: 32px;
+    height: 33px;
+    background: #FABE00;
+    border-color: #FABE00;
+}
+
+
+  .Foot-logo{ 
+
+   
+    margin: 8%;
+    height: 8vmin;
+    pointer-events: none;
+     }
+.TeamAcor{
+  margin: 2% -3% 0 6%;  
+}
+    .hoem-nav{  background: #FABE00; padding: 1% 12% 0 11%;}
+
+    .eapps-instagram-feed-posts-item {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        padding: 2.5%;
+        background: none !important;
+        transition: opacity 0.2s ease, visibility 0.2s ease;
+        opacity: 0;
+        visibility: hidden;
+        overflow: hidden;
+        flex-grow: 0;
+        flex-shrink: 0;
+    }
+.img-card6 img {
+    width: 100%;
+    height: 184px;
+    object-fit: cover;
+}
+
+    .slider a.previousButton {
+    left: 0px;
+}
+
+.associate-brand {
+    padding: 2% 0 0% 0;
+    margin: 0 0% 0 0%;
+}
+
+.sliderh1 {
+    display: block;
+    font-size: 0.85em;
+    -webkit-margin-before: 0.67em;
+    margin-block-start: 0.67em;
+    -webkit-margin-after: -0.33em;
+    margin-block-end: 0.67em;
+    -webkit-margin-start: 0px;
+    margin-inline-start: -45px;
+    -webkit-margin-end: 69px;
+    margin-inline-end: -46px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.slider a.nextButton {
+    right: 0;
+}
+
+    .home-yo-div {
+        padding: 7.2% 2% 0%;
+    }
+
+    .trigger-material{
+        margin: 3% 0.4% 0px -5.1%;
+    }
+    .Collapsible__trigger {
+        color: blue !important;
+        margin: 4%;
+    }
+
+    .my-main-Navbar {
+    padding: 1% 0.4%;
+    background: rgb(250, 190, 0);
+    z-index: 1;
+    width: 100%;
+}
+    .img-card img {
+        width: 100%;
+        height: 170px;
+        object-fit: cover;
+    }
+
+    .connect-forms-brands{
+        margin-left: -14%;
+    }
+    .connect-forms-influencer{
+        margin-left: -33%;
+    }
+    .connect-forms-career{
+        margin-left: -15%;
+        color: blue;
+    }
+
+    .Collapsible{
+        margin-left: 5%;
+    }
+    .mobile-landing-section1{
+        background-color: #FABE00;
+    }
+    .navh1 {
+        color: rgb(0, 0, 0);
+        font-size: 1em;
+        font-weight: 900;
+        margin-left: 17.7%;
+    }
+
+    .accordion-item__title {
+        font-size: 1rem;
+        margin: 0 0px 0px -7%;
+        color: #00f;
+    }
+    .my-projects {
+        padding: 5% 2%;
+    }
+    .landing-para{
+        padding: 38% 11% 5%;
+        font-size: 1.176rem;
+    }
+
+  .footerHeading{
+    color: rgb(250, 190, 0);
+    margin-left: 8.68%;
+  }
+    .mysec1{
+        padding: 0 15px;
+    }
+
+    .connect-tabs{
+    padding: 10% 0% 0;
+    font-size: 14px;
+    }
+    .work-yo-div1 {
+        padding: 10% 2% 5%;
+    }
+
+    .justlikenav{
+        padding: 16% 9% 0;
+        line-height: 2;
+    }
+    .infl-mar{margin-left: 5%;}
+
+    .main-myfooter {
+        background-color: black;
+        padding: 5% 0;
+    }
+
+    .WORK-section1 {
+    
+        padding: 1% 11% 0;
+        background-color: #FABE00;
+    }
+
+    .jc{
+      
+        font-size: 1.4rem;
+        padding-bottom: 4%;
+    }
+
+    .jcb{
+        font-size: 1.4rem;
+        padding-bottom: 4%;
+        padding-top: 7%;
+    }
+    .mob-sec-p{
+        padding: 8% 0;
+    }
+    .row {
+      
+        margin-right: 0 !important; 
+        margin-left: 0 !important;
+    }
+    .mobile-add{
+        font-size: 14px;
+    }
+    
+ .connect-page{
+        padding: 4% 2% 0%;
+        }
+
+        .connect-page1{
+            padding: 4% 2% 0%;
+            }
+.work-pad{
+            padding: 5% 0;
+        }
+   
+/* .map {
+    width: 22.45em!important;
+    height: 450px!important;
+    border: 0!important;
+    margin-top: 0!important;
+    margin-left: -23%!important;
+} */
+.only-map{
+    padding: 1rem 4rem 1rem;
+}
+.social-md{
+    margin: 0 -4.5%;
+    padding: 6% 0;
+
+}
+.tab-mob{
+    padding-bottom: 3.3%;
+}
+
+
+}
+
+
+
+/* for galaxy s5 phone */
+
+@media only screen   
+and (max-device-width : 365px) {
+
+
+    .WORK-section1 {
+    
+        padding: 2% 11% 25%;
+        background-color: #FABE00;
+    }
+
+    .justlikenav{
+    padding: 12% 1% 0;
+    line-height: 2;
+}
+
+.map {
+    width: 19em !important;
+    height: 254px!important;
+    border: 0!important;
+    margin-left: -15% !important;
+}
+}
+
+/* for iphone 5 phone */
+@media only screen and (max-device-width: 340px){
+
+.WORK-section1 {
+    padding: 1% 11% 0;
+    height: 56vh;
+    background-color: #FABE00;
+}
+
+}
+
+/* for iphone 6/7/8 phone */
+
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px){
+
+    .WORK-section1 {
+        padding: 1% 11% 20%;
+      
+        background-color: #FABE00;
+    }
+    .map{
+        width: 19.9em !important;
+        height: 254px!important;
+        border: 0!important;
+
+    }
+    }
+
+    /* for pixel devices  */
+    @media only screen and (min-device-width: 814px) and (max-device-width: 823px){
+    .map {
+        width: 22em !important;
+        height: 254px!important;
+      
+        border: 0!important;
+
+        margin-left: -12% !important;
+    }
+}
